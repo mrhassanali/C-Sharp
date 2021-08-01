@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Splash Screen\Splash Screen\bin\Debug\Splash Screen.exe.config
+C:\Users\Dell\source\repos\Splash Screen\Splash Screen\bin\Debug\Splash Screen.exe
+C:\Users\Dell\source\repos\Splash Screen\Splash Screen\bin\Debug\Splash Screen.pdb
+C:\Users\Dell\source\repos\Splash Screen\Splash Screen\obj\Debug\Splash Screen.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Splash Screen\Splash Screen\obj\Debug\Splash_Screen.Form1.resources
+C:\Users\Dell\source\repos\Splash Screen\Splash Screen\obj\Debug\Splash_Screen.Properties.Resources.resources
+C:\Users\Dell\source\repos\Splash Screen\Splash Screen\obj\Debug\Splash Screen.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Splash Screen\Splash Screen\obj\Debug\Splash Screen.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Splash Screen\Splash Screen\obj\Debug\Splash Screen.exe
+C:\Users\Dell\source\repos\Splash Screen\Splash Screen\obj\Debug\Splash Screen.pdb
