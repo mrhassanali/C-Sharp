@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Login Form\Login Form\bin\Debug\Login Form.exe.config
+C:\Users\Dell\source\repos\Login Form\Login Form\bin\Debug\Login Form.exe
+C:\Users\Dell\source\repos\Login Form\Login Form\bin\Debug\Login Form.pdb
+C:\Users\Dell\source\repos\Login Form\Login Form\obj\Debug\Login Form.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Login Form\Login Form\obj\Debug\Login_Form.Form1.resources
+C:\Users\Dell\source\repos\Login Form\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+C:\Users\Dell\source\repos\Login Form\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Login Form\Login Form\obj\Debug\Login Form.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Login Form\Login Form\obj\Debug\Login Form.exe
+C:\Users\Dell\source\repos\Login Form\Login Form\obj\Debug\Login Form.pdb
