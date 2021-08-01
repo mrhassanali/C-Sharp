@@ -1,9 +1,0 @@
-C:\Users\Dell\source\repos\SpashScreen\SpashScreen\bin\Debug\SpashScreen.exe.config
-C:\Users\Dell\source\repos\SpashScreen\SpashScreen\bin\Debug\SpashScreen.exe
-C:\Users\Dell\source\repos\SpashScreen\SpashScreen\bin\Debug\SpashScreen.pdb
-C:\Users\Dell\source\repos\SpashScreen\SpashScreen\obj\Debug\SpashScreen.Form1.resources
-C:\Users\Dell\source\repos\SpashScreen\SpashScreen\obj\Debug\SpashScreen.Properties.Resources.resources
-C:\Users\Dell\source\repos\SpashScreen\SpashScreen\obj\Debug\SpashScreen.csproj.GenerateResource.cache
-C:\Users\Dell\source\repos\SpashScreen\SpashScreen\obj\Debug\SpashScreen.csproj.CoreCompileInputs.cache
-C:\Users\Dell\source\repos\SpashScreen\SpashScreen\obj\Debug\SpashScreen.exe
-C:\Users\Dell\source\repos\SpashScreen\SpashScreen\obj\Debug\SpashScreen.pdb
