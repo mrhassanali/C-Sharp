@@ -1,3 +1,4 @@
-![IMG_20200801_090654_657](https://user-images.githubusercontent.com/73873109/127765361-e17774f9-7a28-4df2-ba22-7db3dfc488aa.jpg)
 # C-Sharp
 In this Repository you can See about C# Project, C# Codes.
+![Untitled design (2)](https://user-images.githubusercontent.com/73873109/127765405-9192f7da-3a39-4170-aac2-a58c950d3387.png)
+
